@@ -1,3 +1,4 @@
+{% include header.html %}
 ---
 title: "Computer Security Principles and Practice"
 permalink: /Computer-Security-Principles-and-Practice/1-Overview/
