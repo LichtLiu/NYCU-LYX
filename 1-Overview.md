@@ -1,16 +1,15 @@
 ---
 title: "Computer Security Principles and Practice"
-permalink: /
+permalink: /1-Overview/
 layout: default
 ---
-
 # 1-Overview-zh
 
 > **書名：C**omputer **S**ecurity Principles and Practice  
 > **版本：Fourth Edition Global Edition**  
 > **作者：William Stallings Lawrie Brown**
 
-![](https://t3764800.p.clickup-attachments.com/t3764800/50acd6d3-fc1f-4fd1-8697-b5b4e6712f4d/Screen%20Shot%202023-09-16%20at%202.58.47%20PM.png)
+
 
 > 學習目標  
 > ◆ 描述 機密性(confidentiality)、完整性(Integrity)、可用性(availability) 的關鍵安全要求。  
@@ -41,11 +40,11 @@ The NIST Internal/Interagency Report NISTIR 7298 (_Glossary of Key Information S
 > **Computer Security:** Measures and controls that ensure confidentiality, integrity, and availability of information system assets including hardware, software, firm- ware, and information being processed, stored, and communicated.  
 > 電腦安全：計畫及控制確保保密性、完整性、可用性包含資訊系統資產之硬體、軟體、韌體及處理中/儲存中/溝通中的資訊
 
-![](https://t3764800.p.clickup-attachments.com/t3764800/d2a2f489-1e86-4ea9-b9ce-9e0224029840/Screen%20Shot%202023-09-16%20at%203.12.36%20PM.png)
 
 
+![](https://t3764800.p.clickup-attachments.com/t3764800/9bc14555-062d-4786-942c-99b3bfc20ef2/Screen%20Shot%202023-12-30%20at%2011.41.35%20PM.png)
 
-![](https://t3764800.p.clickup-attachments.com/t3764800/e6db484c-666d-4c89-9bd1-a077af04e64f/Screen%20Shot%202023-09-16%20at%203.26.33%20PM.png)
+
 
 _三個電腦安全關鍵目標_：
 
