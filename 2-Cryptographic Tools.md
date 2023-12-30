@@ -1,6 +1,6 @@
 ---
 title: "Computer Security Principles and Practice"
-permalink: /2-Cryptographic Tools/
+permalink: /Computer-Security-Principles-and-Practice/2-Cryptographic-Tools/
 layout: default
 ---
 # 2-Cryptographic Tools

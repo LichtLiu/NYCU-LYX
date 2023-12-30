@@ -1,6 +1,6 @@
 ---
 title: "Computer Security Principles and Practice"
-permalink: /1-Overview/
+permalink: /Computer-Security-Principles-and-Practice/1-Overview/
 layout: default
 ---
 # 1-Overview-zh
